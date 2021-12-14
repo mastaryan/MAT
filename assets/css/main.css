@@ -2262,6 +2262,25 @@ input, select, textarea {
 		#intro footer {
 			margin: 0;
 		}
+		
+		
+/* Gallery */
+* {
+	box-sizing: border-box;
+  }
+  
+  img {
+	max-width: 100%;
+	vertical-align: top;
+  }
+  
+  #gallery {
+	display: flex;
+	  margin: 10px auto;
+	  max-width: $max-img-width;
+	  position: relative;
+	  padding-top: $max-img-height/$max-img-width * 100%;
+	}
 
 /* Main */
 
