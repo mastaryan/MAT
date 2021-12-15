@@ -2277,7 +2277,7 @@ input, select, textarea {
   #gallery {
 	display: flex;
 	  margin: 10px auto;
-	  max-width: $max-img-width;
+	  max-width: 100%;
 	  position: relative;
 	  padding-top: $max-img-height/$max-img-width * 100%;
 	}
