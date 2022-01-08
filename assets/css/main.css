@@ -2121,6 +2121,12 @@ input, select, textarea {
 					color: #fff !important;
 					font-weight: 700;
 				}
+
+				#nav > ul > li.options > a {
+					background: #1d2b5b;
+					color: #fff !important;
+					font-weight: 700;
+				}
 				
 
 	.dropotron {
