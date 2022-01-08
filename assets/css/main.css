@@ -1640,7 +1640,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #c51349;
+			background: #1d2b5b;
 		}
 
 		input[type="button"].alt,
@@ -1648,7 +1648,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #252122;
+			background: #1d2b5b;
 		}
 
 			input[type="button"].alt:hover,
@@ -1664,7 +1664,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #151112;
+				background: #c51349;
 			}
 
 		input[type="button"].icon:before,
